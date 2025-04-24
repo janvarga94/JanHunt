@@ -1,0 +1,1 @@
+-- local i = 1; while UnitBuff("player",i) do message(UnitBuff("player",i));i=i+1;end;
