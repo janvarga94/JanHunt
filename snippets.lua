@@ -1,1 +1,2 @@
 -- local i = 1; while UnitBuff("player",i) do message(UnitBuff("player",i));i=i+1;end;
+-- local i = 1; while UnitDebuff("target",i) do message(UnitDebuff("target",i));i=i+1;end;
